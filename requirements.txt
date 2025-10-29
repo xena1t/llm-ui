@@ -1,0 +1,6 @@
+accelerate>=0.34.2
+bitsandbytes>=0.43.1; platform_system!="Windows"
+gradio>=4.44.0
+hf_transfer>=0.1.5
+imageio>=2.34.0
+transformers @ git+https://github.com/huggingface/transformers.git
